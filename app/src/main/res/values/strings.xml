@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Chợ Đồ Cũ</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="gioithieu">
+        Mục tiêu của SkyBlue là sẽ trở thành thị trường mua bán trực tuyến hàng đầu Việt Nam. Mục đích của Ứng Dụng là cho phép mọi người đăng bán sản phẩm dễ dàng trong một môi trường tiện lợi và rõ ràng.
+Tất cả các hạng mục đều có trên Ứng Dụng của chúng tôi, cho dù nó là dành cho mua, bán, xe , đồ điện tử đã qua sử dụng. Mục đích của chúng tôi là cung cấp cho người
+        Việt Nam một nền tảng trực tuyến để sử dụng một cách đơn giản, tiện lợi, không rắc rối phức tạp. Không cần phải đăng ký và ai cũng có thể tìm kiếm và đăng các thông tin liên quan về các danh mục sản phẩm cần bán khác nhau, từ bất động sản, đồ điện tử đến xe ô tô và còn nhiều hơn nữa.
+Mỗi người trong số chúng ta đều có những sản phẩm có thể bán được. Bên cạnh việc giữ sản phẩm không cần đến ở nhà, bất kỳ ai cũng có thể kiếm thêm tiền bằng cách bán nó cho người khác thông qua thị trường mua bán trực tuyến này.
+    </string>
+    <string name="dienthoai">Nhập Số Điện Thoại</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mật Khẩu</string>
+    <string name="hint_name">Họ Tên</string>
+    <string name="btn_login">Đăng Nhập</string>
+    <string name="btn_register">Đăng Kí</string>
+    <string name="btn_link_to_register">Bạn Chưa Có Tài Khoản? Đăng Kí Ngay</string>
+    <string name="btn_link_to_login">Đã Có Tài Khoản! Đăng Nhập Ngay</string>
+    <string name="welcome">Xin Chào</string>
+    <string name="btn_logout">Đăng Xuấ</string>
+    <string name="name">Họ Và Tên</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+    <string name="quenmk">Quên Mật Khẩu</string>
+</resources>
+

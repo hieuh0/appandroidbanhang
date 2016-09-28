@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_gravity="center"
+        android:src="@drawable/camera"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/imvCamera" />
+    <TextView
+        android:text="Tên Sản Phẩm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+<EditText
+    android:hint="Nhập Tên Sản Phẩm"
+    android:id="@+id/edtTenSP"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+    <TextView
+        android:inputType="number"
+        android:text="Giá Sản Phẩm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:hint="Nhập Giá Sản Phẩm"
+        android:id="@+id/edtGia"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="Mô Tả Sản Phẩm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:hint="Nhập Mô Tả Sản Phẩm"
+        android:id="@+id/edtMoTa"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <TextView
+        android:text="Danh Mục"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Spinner
+        android:id="@+id/SPdanhmuc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text="Số Điện Thoại Người Bán"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:hint="Nhập Số Điện Thoại"
+        android:inputType="phone"
+        android:id="@+id/edtDT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_gravity="center"
+        android:text="Đăng"
+        android:id="@+id/btnDangBan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

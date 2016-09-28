@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:background="@color/white"
+        android:text="Gởi Email Cho Chúng Tôi"
+        android:textColor="@color/black"
+        android:id="@+id/sendEmail" />
+    <Button
+
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="Hoặc"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="15dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:text="Gọi Cho Chúng Tôi"
+        android:textColor="@color/black"
+        android:id="@+id/Call" />
+</LinearLayout>
